@@ -9,5 +9,6 @@ namespace ConsoleApplication1
     class Class1
     {
         public string str;
+        public int i;
     }
 }
