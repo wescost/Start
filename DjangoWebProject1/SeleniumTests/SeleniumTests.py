@@ -5,6 +5,7 @@ import unittest
 class SeleniumTests(unittest.TestCase):
     """description of class"""
 
+    
     def setUp(self):
         self.driver = webdriver.Firefox()
         self.driver.get("https://www.ukr.net")
@@ -14,3 +15,6 @@ class SeleniumTests(unittest.TestCase):
 
     def tearDown(self):
         self.driver.quit()   
+
+if __name__ == '__main__':
+    unittest.main()
