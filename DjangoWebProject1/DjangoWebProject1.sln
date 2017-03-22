@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoWebProject1", "Django
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SeleniumTests", "SeleniumTests\SeleniumTests.pyproj", "{49C380FE-0D94-4291-AAE7-5E3FE61FA258}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FirstProject", "FirstProject\FirstProject.pyproj", "{940F9FA3-C8B4-4EB3-A8D7-BF5E680E5715}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{49C380FE-0D94-4291-AAE7-5E3FE61FA258}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49C380FE-0D94-4291-AAE7-5E3FE61FA258}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49C380FE-0D94-4291-AAE7-5E3FE61FA258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{940F9FA3-C8B4-4EB3-A8D7-BF5E680E5715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940F9FA3-C8B4-4EB3-A8D7-BF5E680E5715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940F9FA3-C8B4-4EB3-A8D7-BF5E680E5715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940F9FA3-C8B4-4EB3-A8D7-BF5E680E5715}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
