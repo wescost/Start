@@ -7,7 +7,7 @@
     <ProjectGuid>2ed3c40d-c780-4389-856d-66ab5e8ff716</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <ProjectTypeGuids>{1b580a1a-fdb3-4b32-83e1-6407eb2722e6};{349c5851-65df-11da-9384-00065b846f21};{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
-    <StartupFile>regex.py</StartupFile>
+    <StartupFile>static fields.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -41,6 +41,12 @@
     <Compile Include="Lambda.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="OOP.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="pyramyde_sorting.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="regex.py">
       <SubType>Code</SubType>
     </Compile>
@@ -54,6 +60,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="sorting.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="static fields.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Test1.py">
