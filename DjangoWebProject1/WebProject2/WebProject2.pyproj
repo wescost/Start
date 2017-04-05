@@ -41,6 +41,9 @@
     <Compile Include="Lambda.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="OOP homework hard.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="OOP.py">
       <SubType>Code</SubType>
     </Compile>
