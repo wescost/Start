@@ -38,6 +38,7 @@
     <Compile Include="delegate.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="fly_wait.py" />
     <Compile Include="Lambda.py">
       <SubType>Code</SubType>
     </Compile>
@@ -47,6 +48,9 @@
     <Compile Include="OOP.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="patterns.py" />
+    <Compile Include="pattern_singletone.py" />
+    <Compile Include="Proxy.py" />
     <Compile Include="pyramyde_sorting.py">
       <SubType>Code</SubType>
     </Compile>
@@ -62,12 +66,14 @@
     <Compile Include="concatenation_recursion.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="singletone2.py" />
     <Compile Include="sorting.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="static fields.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Super.py" />
     <Compile Include="Test1.py">
       <SubType>Code</SubType>
     </Compile>
